@@ -1,0 +1,8 @@
+2
+3
+Ann 0  2
+Beatriz  3   4
+Daisy  2 2
+Iman  2 2
+Olga  1 3
+Patricia 1 2

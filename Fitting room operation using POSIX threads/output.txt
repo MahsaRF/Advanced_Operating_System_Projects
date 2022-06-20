@@ -1,0 +1,36 @@
+-- Lines starting with -- are NOT REQUIRED or even advised.
+-- This fitting room has 2 cubicles.
+-- It takes 3 time units to try on one item.
+Ann arrives at the fitting room.
+-- Ann has 2 items to try on.
+Ann gets a cubicle.
+Beatriz arrives at the fitting room.
+-- Beatriz has 4 items to try on.
+Beatriz gets a cubicle.
+Daisy arrives at the fitting room.
+-- Daisy has 2 items to try on.
+-- Daisy has to wait.
+Ann is done.
+Daisy gets a cubicle.
+Iman arrives at the fitting room.
+-- Iman has 2 items to try on.
+-- Iman has to wait.
+Olga arrives at the fitting room.
+-- Olga has 3 items to try on.
+-- Olga has to wait.
+Patricia arrives at the fitting room.
+-- Patricia has 2 items to try on.
+-- Patricia has to wait.
+Daisy is done.
+Iman gets a cubicle.
+Beatriz is done.
+Olga gets a cubicle.
+Iman is done.
+Patricia gets a cubicle.
+Olga is done.
+Patricia is done.
+
+SUMMARY:
+6 patron(s) used the fitting room.
+2 patron(s) did not have to wait.
+4 patron(s) had to wait.
